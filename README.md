@@ -16,8 +16,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-
-
+![OUTPUT](<maths 5.1.jpg>)
+![OUTPUT](<maths 5.2.jpg>)
 ## Program
 Developed by:MARELLA HASINI
 Register Number:212223240083
